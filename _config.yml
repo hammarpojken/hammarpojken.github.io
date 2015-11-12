@@ -1,12 +1,12 @@
 # Site settings
 title: Niclas Hammar UDM 2015
-email: your-email@domain.com
+email: nh222fv@student.lnu.se
 description: > # this means to ignore newlines until "baseurl:"
   Detta är en är min protfoilio under min studietid där kommande arbeten kommer att befinna sig.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: HPen
+github_username:  hammarpojken
 
 # Build settings
 markdown: kramdown
