@@ -7,6 +7,8 @@
     border-bottom: 1px solid $grey-color-light;
     min-height: 700px;
 
+
+
     // Positioning context for the mobile navigation icon
     position: relative;
 }
@@ -17,17 +19,25 @@
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
+    color: #FF8000;
+    background-color: #000;
+    padding-left: 10px;
+    padding-right: 10px;
+
 
     &,
     &:visited {
-        color: $grey-color-dark;
+        color: #FF8000;
     }
 }
 
 .site-nav {
+    background-color: #000000;
     float: right;
     line-height: 56px;
-    margin-right: 0px;
+    margin-right: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
 
     .menu-icon {
         display: none;
@@ -105,13 +115,15 @@
 
 .contact-list,
 .social-media-list {
+    color: $text-color;
     list-style: none;
     margin-left: 0;
+
 }
 
 .footer-col-wrapper {
     font-size: 15px;
-    color: $grey-color;
+    color: $text-color;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
 }

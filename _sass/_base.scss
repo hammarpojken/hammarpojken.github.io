@@ -8,11 +8,12 @@ dl, dd, ol, ul, figure {
     padding: 0;
 }
 
-
+$text-color: #FF8000;
 
 /**
  * Basic styling
  */
+
 body {
     font-family: $base-font-family;
     font-size: $base-font-size;
@@ -81,6 +82,7 @@ li {
  */
 h1, h2, h3, h4, h5, h6 {
     font-weight: 300;
+    color: #000;
 }
 
 

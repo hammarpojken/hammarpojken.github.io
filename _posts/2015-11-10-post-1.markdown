@@ -1,11 +1,13 @@
 ---
 layout: post
-title:  "Mitt första inlägg!"
+title:  "Welcome!"
 date:   2015-11-05 15:20:32
 categories: jekyll update
 ---
 
-![Image description]()
+Hello everyone!
+This will be a website for my projects during my studies in the course 1dv022. I will blog about my work during the course
+and there might be other projects that i will publish here if possible in the future.
 
 
 

@@ -2,10 +2,9 @@
 title: Niclas Hammar UDM 2015
 email: nh222fv@student.lnu.se
 description: > # this means to ignore newlines until "baseurl:"
-  Detta är en är min protfoilio under min studietid där kommande arbeten kommer att befinna sig.
+  This is my portfolio during my studies and this site is where i will publish my finishied projects.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: HPen
 github_username:  hammarpojken
 
 # Build settings
