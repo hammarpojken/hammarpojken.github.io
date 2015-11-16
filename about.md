@@ -1,11 +1,10 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hello everyone! My name is Niclas and I am 25 years old. I am born and raised in Gothenburg, Sweden, where I still live today.
+At the moment I live in Johanneberg which is located in a central area in Gothenburg where I live together with my partner Cattis.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+I've recently started to study at LNU to see if I can make something  of myself after a few years of traveling around the world, working and enjoying my youth.

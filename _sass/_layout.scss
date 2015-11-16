@@ -14,12 +14,12 @@
 }
 
 .site-title {
-    font-size: 26px;
+    font-size: 16px;
     line-height: 56px;
     letter-spacing: -1px;
     margin-bottom: 0;
     float: left;
-    color: #FF8000;
+    color: $text-color;
     background-color: #000;
     padding-left: 10px;
     padding-right: 10px;
@@ -27,8 +27,12 @@
 
     &,
     &:visited {
-        color: #FF8000;
+        color: $text-color;
     }
+}
+
+.post-meta {
+    float: right;
 }
 
 .site-nav {
