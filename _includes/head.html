@@ -8,8 +8,8 @@
 
     <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
     <meta property="og:type" content="Website" />
-    <meta property="og:url" content="http://hammarpojken.github.io/" />
-    <meta property="og:image" content="images/bild.jpg" />
+    <meta property="og:url" content="page.url" />
+    <meta property="og:image" content="../images/bild.jpg" />
 
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
