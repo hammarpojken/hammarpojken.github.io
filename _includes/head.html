@@ -8,7 +8,7 @@
 
     <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}" />
     <meta property="og:type" content="Website" />
-    <meta property="og:url" content="{% if page.url %}{{ page.title }}{% else %}{{ site.url }}{% endif %}" />
+    <meta property="og:url" content="{% if page.url %}{{ page.url }}{% else %}{{ site.url }}{% endif %}" />
     <meta property="og:image" content="http://hammarpojken.github.io/images/bild.jpg" />
 
     <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
